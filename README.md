@@ -1,48 +1,21 @@
-# Hi there, I'm Mohamed Lotfi! 👋
-
-## 🚀 About Me
-
-I'm a passionate **.NET Backend Developer** with expertise in building scalable and high-performance web applications. I have a strong foundation in **.NET Core, C#, SQL, Microservices, Clean Architecture, and Design Patterns**. I enjoy solving complex problems and optimizing system performance.
-
-## 🏆 Experience & Skills
-
-- 🔹 **.NET Backend Development** (ASP.NET Core )
-- 🔹 **Databases** (SQL Server, MySQL, MongoDB)
-- 🔹 **Cloud & DevOps** (Docker, Kubernetes)
-- 🔹 **Microservices & APIs** (gRPC, RESTful APIs, SignalR)
-- 🔹 **Frontend** (Angular 18, TypeScript, Tailwind CSS)
-- 🔹 **Software Architecture** (Clean Architecture, DDD, Repository Pattern, CQRS)
-- 🔹 **Testing & Debugging** (Unit Testing, Integration Testing, Postman)
-- 🔹 **Data Analysis** (Power BI, Python, Pandas, Tableau)
-- 🔹 **Problem-Solving** (Competitive Programming, ECPC Finalist)
-
-## 📌 Featured Projects
-
-### 🔥 [Education Management System](#)
-
-A full-fledged platform for online learning with video streaming, an exam system, and instructor dashboards.
-
-### 🛒 [E-Commerce Platform with Delivery System](#)
-
-An advanced shopping system that includes product allocation, trader-based orders, and real-time notifications.
-
-### 🏨 [Hotel Management System](#)
-
-A comprehensive system handling room bookings, availability calculation, and payment processing.
-
-### 📚 [Book Store Management System](#)
-
-A backend-powered book store application with user authentication, order tracking, and inventory management.
-
-## 📫 Connect with Me
-
-\
-\
-\
-\
+# 💫 About Me:
+I am a Full Stack .NET Developer & node.js with strong experience in building scalable, secure, and high-performance applications using .NET Core, C#, Angular, React, and modern databases. Skilled in REST APIs, microservices, Clean Architecture, CQRS, and real-time systems using SignalR.<br>I have hands-on experience with DevOps tools such as Docker, Kubernetes, CI/CD pipelines, Jenkins, and version control using Git.<br>My background in competitive progr<br>amming (ECPC finalist) strengthened my problem-solving and algorithmic thinking. I’m passionate about fintech, system scalability, and delivering high-quality software in Agile environments.
 
 
-## 💡 Let's Collaborate!
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamedlotfy21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lotfi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedlotf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lotfi029) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lotfi33) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19995262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohamed_l0tfi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC0ftRmNEoFwRzF87XcQHQag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.lotfi.dev@gmail.com) 
 
-I'm always open to new opportunities, collaborations, and innovative projects. Feel free to reach out if you're looking for a **.NET expert** or a **problem solver** for your next project. 🚀
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lotfi029&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lotfi029&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotfi029&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lotfi029&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lotfi029&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
