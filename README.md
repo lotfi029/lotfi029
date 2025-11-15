@@ -7,10 +7,10 @@ I am a Full Stack .NET Developer & node.js with strong experience in building sc
 ## 🏆 Experience & Skills
 
 - 🔹 **.NET Backend Development** (ASP.NET Core )
-- 🔹 **Databases** (SQL Server, MySQL, MongoDB)
+- 🔹 **Databases** (SQL Server, MySQL, MongoDB, Postgres)
 - 🔹 **Cloud & DevOps** (Docker, Kubernetes)
-- 🔹 **Microservices & APIs** (gRPC, RESTful APIs, SignalR)
-- 🔹 **Frontend** (Angular , TypeScript, Tailwind CSS)
+- 🔹 **Microservices & APIs** (gRPC, RESTful APIs, SignalR, , CI/CD, Jenkins)
+- 🔹 **Frontend** (Angular , TypeScript, Tailwind CSS, Bootstrap)
 - 🔹 **Software Architecture** (Clean Architecture, DDD, Repository Pattern, CQRS)
 - 🔹 **Testing & Debugging** (Unit Testing, Integration Testing, Postman)
 - 🔹 **Data Analysis** (Power BI, Python, Pandas, Tableau)
