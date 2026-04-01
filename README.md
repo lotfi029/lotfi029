@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack .NET Developer & node.js with strong experience in building scalable, secure, and high-performance applications using .NET Core, C#, Angular, React, and modern databases. Skilled in REST APIs, microservices, Clean Architecture, CQRS, and real-time systems using SignalR.<br>I have hands-on experience with DevOps tools such as Docker, Kubernetes, CI/CD pipelines, Jenkins, and version control using Git.<br>My background in competitive progr<br>amming (ECPC finalist) strengthened my problem-solving and algorithmic thinking. I’m passionate about fintech, system scalability, and delivering high-quality software in Agile environments.
+I am a Full Stack .NET Developer & node.js with strong experience in building scalable, secure, and high-performance applications using .NET Core, C#, Angular, React, and modern databases. Skilled in REST APIs, microservices, Clean Architecture, CQRS, and real-time systems using SignalR.<br>I have hands-on experience with DevOps tools such as Docker, Kubernetes, CI/CD pipelines, Jenkins, and version control using Git.<br>My background in competitive programming (ECPC finalist) strengthened my problem-solving and algorithmic thinking. I’m passionate about fintech, system scalability, and delivering high-quality software in Agile environments.
 
 
 ## 🌐 Socials:
